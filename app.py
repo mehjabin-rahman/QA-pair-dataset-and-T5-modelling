@@ -7,7 +7,7 @@ from flask import Flask, render_template, request
 app = Flask(__name__)
 
 # Load the CSV data
-with open('updated_dataset__.csv', 'r') as f:
+with open('updated_dataset.csv', 'r') as f:
     reader = csv.DictReader(f)
     data = list(reader)
 
@@ -36,7 +36,7 @@ def answer():
     question = request.form['question']
     context = request.form['context']
     answer, top_5_sentences = generate_answer(question, context)
-    return render_template('index.html', answer=answer, top_5_sentences=top_5_sentences)
+    return render_template('templates/index.html', answer=answer, top_5_sentences=top_5_sentences)
 
 # Run Flask app
 if __name__ == '__main__':

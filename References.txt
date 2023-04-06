@@ -1,0 +1,7 @@
+https://www.w3schools.com/howto/howto_make_a_website.asp
+https://www.digitalocean.com/community/tutorial_series/how-to-build-a-website-with-html
+https://www.washington.edu/accesscomputing/webd2/student/unit2/index.html
+https://www.w3schools.com/html/html_images.asp
+https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+https://pemagrg.medium.com/build-a-web-app-using-pythons-flask-for-beginners-f28315256893https://stackoverflow.com/questions/64070037/how-to-connect-python-backend-with-flask-and-htmlcss
+https://www.freecodecamp.org/news/how-to-use-python-and-flask-to-build-a-web-app-an-in-depth-tutorial-437dbfe9f1c6/
